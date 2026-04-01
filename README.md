@@ -6,7 +6,7 @@
 
 ## 🌐 Live Preview
 
-[View Live Site]([https://saad-kazi54.github.io/Zephyr_Ecommerce_Store/)
+[View Live Site](https://saad-kazi54.github.io/Zephyr_Ecommerce_Store/)
 
 ---
 
