@@ -6,7 +6,7 @@
 
 ## 🌐 Live Preview
 
-[View Live Site]([https://your-github-username.github.io/your-repo-name](https://saad-kazi54.github.io/Zephyr_Ecommerce_Store/))
+[View Live Site]([https://your-github-username.github.io/your-repo-name](https://saad-kazi54.github.io/Zephyr_Ecommerce_Store/)
 
 ---
 
